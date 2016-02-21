@@ -9,6 +9,12 @@ Thanks for passing by!
 
 |Things I'm Learning    |
 |-----------------------|
-|iFrames                |
-|images                 |
-
+|Text                   |
+|Lists                  |
+|Links                  |
+|Images                 |
+|Tables                 |
+|Forms                  |
+|Video                  |
+|Audio                  |
+|iframe                 |
