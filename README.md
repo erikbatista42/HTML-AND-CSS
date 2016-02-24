@@ -18,3 +18,4 @@ Thanks for passing by!
 |Video                  |
 |Audio                  |
 |iframe                 |
+|Boxes                 |
