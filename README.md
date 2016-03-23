@@ -7,7 +7,7 @@ I hope you enjoy this repository.
 Thanks for passing by!
 
 
-|Things I'm Learning    |
+|Things I Learned       |
 |-----------------------|
 |Text                   |
 |Lists                  |
@@ -18,4 +18,4 @@ Thanks for passing by!
 |Video                  |
 |Audio                  |
 |iframe                 |
-|Boxes                 |
+|Boxes                  |
